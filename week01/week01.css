@@ -1,0 +1,11 @@
+div.item {
+	background-color: #eeeeee;
+	width: 80%;
+	margin-left: 10%;
+}
+
+span.item_name {
+	background: #ddddff;
+	text-align: left;
+	display: block;
+}
